@@ -1,0 +1,23 @@
+# Partidas, notas y estado local
+datos/
+
+# Archivos generados por Python y entornos locales
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Configuración privada del equipo y editores
+.env
+.env.*
+.runtime/
+.codex/
+.agents/
+.vscode/
+.idea/
+*.lnk
+*.log
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store

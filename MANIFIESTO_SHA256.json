@@ -1,0 +1,23 @@
+{
+  ".gitattributes": "3d5c35ac2bfb12295def3ef7a18bf39f3c990b425482c06d384855c0dabbb248",
+  ".gitignore": "9c39da64d299837d0f6e43ce0dcab19eab752223345c5109a6f4507214193803",
+  "app.py": "eb353d0eba955edb04a46cc26eb9da0d99292b990d29625514879602dc4df041",
+  "COBERTURA.md": "42b1604660b4a72d34ca8eea483f4f8101fa4fb3c99d2d2f3a5f3bd0c66686e5",
+  "curso.json": "4aa3cb3d56d10cbed11c7d885cdc6bc58d3f49b1ffbd8566b6d5a2fef7657baf",
+  "DETENER_SERVIDOR.cmd": "d0981deba4393fb903c7cc7b96f731950d2785317514c4b36da5f6ade3bbe0cf",
+  "fuentes.json": "5972b34056e847fbac5a63ac9047e209efa19cf9186a2ce1ed33b1af9321f830",
+  "game.js": "e9f227f16f8668cb8000a17a95ec51d83f2df417f4a93aaacfdf9c4013e3bdca",
+  "index.html": "ac544e73b5bb55923ac7c8ce850c28d6bb06984188d67950aeb946e7cffd20f8",
+  "INICIAR_RADIO_AVENTURA.cmd": "49e49b95f0e7721cffadbcc7fc5d202bb47d3321a689bcf35e29e73a1f7ffe47",
+  "LEEME.md": "af2064790ca8b9a2d419cacc1fddc2bf0ecae0994cd520a9c61f0e86f6005bfe",
+  "libro/RadioSystemsEngineeringRev1stEd.pdf": "79f1a2ae0139a0ff2187ea2dce380cded2d5f93fba1ba182bcdd5a67d8d8ac64",
+  "libro_busqueda.json": "e28091b7ca0b7b539eace1fe311b4fe19cdad09b59dc8a69090aafb1a3f1daa0",
+  "LICENCIA_CODIGO.txt": "367100dd53a922eabb30ec4d2978a1d932dd24cf6115e319216908742475496c",
+  "MANTENER_SERVIDOR.cmd": "fa11278f1f694cdf22f111c92e575f2442a3ae7259d65690d26e9b8b5d61ed6b",
+  "README.md": "64ed9b0bc9e0f16c5c16236a88049e8df09525876f63af830f91bd964d9006c7",
+  "SERVIDOR_LOCAL.md": "daafb272b4ee2e557c9dd2bd054e395bd418837e79333ed46866c96f77a8a6f6",
+  "servidor_persistente.py": "e6e65598e16beadda98adfd421c6ea7b082a203c2ba5d0c09eec812b156b85ee",
+  "style.css": "a538efe8a45a31b886cb834fccc45c76cf06de97c4b7239c6bd8225c013de42e",
+  "test_radio.py": "c25dec4a31f3fb498175a8dc780ccecf5946d252202a6166c7e0c08b37e13cf3",
+  "VERIFICACION.md": "5e3e6f18966d9543dec1397bbdda07bf71c1b264f123422e31532f8102a1e6a1"
+}
